@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmi6203&label=Profile%20views&color=0e75b6&style=flat" alt="rashmi6203" /> </p>
 
-- 🌱 I’m currently learning **C language , Introduction to Python , Statistics , HTMLL**
+- 🌱 I’m currently learning **C language , Introduction to Python , Statistics , HTML**
 
 - 📫 How to reach me **h2rmecatopia@gmail.com**
 
