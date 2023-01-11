@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rashmi Kumari</h1>
+<h1 align="center">Hi 👋, I'm Rashmi </h1>
 <h3 align="center">A passionate Junior Software Developer from India.</h3>
 <img align="right" alt="coding" width="400" scr=" https://blog.commlabindia.com/wp-content/uploads/2021/09/animated-gifs-corporate-training.gif">
 
